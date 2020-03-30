@@ -1,0 +1,74 @@
+<h2>Aprenda a usar o cupom de desconto #Parceiro</h2>
+<div class="video-container" data-url="https://www.youtube.com/embed/5NwY5Pdd6Sw" data-title="Como usar o cupom #Parceiro"><img id="videothumb" class="video-container__thumbnail" src="https://i.ytimg.com/vi_webp/5NwY5Pdd6Sw/maxresdefault.webp" alt="Como usar o cupom #Parceiro" width="1280" height="720" /> <button class="video-container__play" aria-label="Reproduzir v&iacute;deo"></button></div>
+<p><code>
+<script>
+var img = document.getElementById('videothumb');
+img.src = 'https://i.ytimg.com/vi_webp/5NwY5Pdd6Sw/maxresdefault.webp';
+</script>
+</code></p>
+<h2>Perguntas frequentes sobre Cupom #Parceiro</h2>
+<div style="background: #fff; border: .125rem solid #e8e6f0; border-radius: .25rem; margin-bottom: 30px;">
+<div style="padding: 30px; padding-bottom: 15px;">
+<h3><span style="color: #ff3859;">✂</span> Como usar o Cupom de Desconto #Parceiro?</h3>
+<p>O M&eacute;liuz oferece v&aacute;rias ofertas, cashback e cupons de desconto #Parceiro e de outras 1.600 lojas para voc&ecirc; sempre economizar em suas compras.<br />Siga o passo a passo para usar um cupom #Parceiro:<br />1. Localize o cupom desejado e clique em &ldquo;Pegar desconto&rdquo;.<br />2. Clique em Copiar e ir para loja.<br />3. No carrinho de compras da loja, cole o c&oacute;digo promocional do cupom #Parceiro no campo indicado.</p>
+</div>
+</div>
+<div style="background: #fff; border: .125rem solid #e8e6f0; border-radius: .25rem; margin-bottom: 30px;">
+<div style="padding: 30px; padding-bottom: 15px;">
+<h3><span style="color: #ff3859;">✔</span> Como Economizar no site #Parceiro?</h3>
+<p>Al&eacute;m dos cupons de desconto #Parceiro de at&eacute; 90% e cashback exclusivo em alguns casos, a maioria das lojas oferece ofertas toda semana. S&atilde;o produtos com pre&ccedil;os imperd&iacute;veis, categorias em promo&ccedil;&atilde;o e at&eacute; frete gr&aacute;tis.<br />Datas especiais tamb&eacute;m s&atilde;o &oacute;timas para economizar: Black Friday, Semana do Consumidor, Dia das M&atilde;es, Dia dos Namorados, Natal, al&eacute;m de campanhas de anivers&aacute;rio das pr&oacute;prias lojas.<br />Outra dica &eacute; cadastrar-se no site #Parceiro para receber as &uacute;ltimas novidades e ofertas por email e aproveitar ainda mais.</p>
+</div>
+</div>
+<div style="background: #fff; border: .125rem solid #e8e6f0; border-radius: .25rem; margin-bottom: 30px;">
+<div style="padding: 30px; padding-bottom: 15px;">
+<h3><span style="color: #ff3859;">☺</span> Quais as vantagens de comprar no site #Parceiro?</h3>
+<p>Comprar usando o M&eacute;liuz &eacute; o melhor jeito de aproveitar as melhores ofertas e cupons de desconto #Parceiro e ainda ganhar cashback na sua compra em v&aacute;rias lojas.</p>
+</div>
+</div>
+<div style="background: #fff; border: .125rem solid #e8e6f0; border-radius: .25rem; margin-bottom: 30px;">
+<div style="padding: 30px; padding-bottom: 15px;">
+<h3><span style="color: #ff3859;">❤</span> Como ganhar Cashback com M&eacute;liuz e #Parceiro?</h3>
+<p>Caso esteja em vigor, ganhar cashback M&eacute;liuz e #Parceiro &eacute; simples:<br />1. Ap&oacute;s se cadastrar no M&eacute;liuz, busque a loja online desejada<br />2. Ative seu cashback clicando em Ativar e ir para a loja<br />3. Fa&ccedil;a sua compra normalmente no site #Parceiro.<br />Pronto! Em at&eacute; 2 dias, o valor do cashback aparecer&aacute; no seu extrato do M&eacute;liuz. Ah, e o mais legal: voc&ecirc; pode resgatar o cashback do M&eacute;liuz direto para sua conta banc&aacute;ria.</p>
+</div>
+</div>
+<p><code>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "✂ Como usar o Cupom de Desconto #Parceiro?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>O M&eacute;liuz oferece v&aacute;rias ofertas, cashback e cupons de desconto #Parceiro e de outras 1.600 lojas para voc&ecirc; sempre economizar em suas compras.<br />Siga o passo a passo para usar um cupom #Parceiro:<br />1. Localize o cupom desejado e clique em &ldquo;Pegar desconto&rdquo;.<br />2. Clique em Copiar e ir para loja.<br />3. No carrinho de compras da loja, cole o c&oacute;digo promocional do cupom #Parceiro no campo indicado.</p>"
+    }
+  }, {
+    "@type": "Question",
+    "name": "✔ Como Economizar no site #Parceiro?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>Al&eacute;m dos cupons de desconto #Parceiro de at&eacute; 90% e cashback exclusivo em alguns casos, a maioria das lojas oferece ofertas toda semana. S&atilde;o produtos com pre&ccedil;os imperd&iacute;veis, categorias em promo&ccedil;&atilde;o e at&eacute; frete gr&aacute;tis.<br />Datas especiais tamb&eacute;m s&atilde;o &oacute;timas para economizar: Black Friday, Semana do Consumidor, Dia das M&atilde;es, Dia dos Namorados, Natal, al&eacute;m de campanhas de anivers&aacute;rio das pr&oacute;prias lojas.<br />Outra dica &eacute; cadastrar-se no site #Parceiro para receber as &uacute;ltimas novidades e ofertas por email e aproveitar ainda mais.</p>"
+    }
+  }, {
+    "@type": "Question",
+    "name": "☺ Quais as vantagens de comprar no site #Parceiro?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>Comprar usando o M&eacute;liuz &eacute; o melhor jeito de aproveitar as melhores ofertas e cupons de desconto #Parceiro e ainda ganhar cashback na sua compra em v&aacute;rias lojas.</p>"
+    }
+  }, {
+    "@type": "Question",
+    "name": "❤ Como ganhar Cashback com M&eacute;liuz e #Parceiro?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>Caso esteja em vigor, ganhar cashback M&eacute;liuz e #Parceiro &eacute; simples:<br />1. Ap&oacute;s se cadastrar no M&eacute;liuz, busque a loja online desejada<br />2. Ative seu cashback clicando em Ativar e ir para a loja<br />3. Fa&ccedil;a sua compra normalmente no site #Parceiro.<br />Pronto! Em at&eacute; 2 dias, o valor do cashback aparecer&aacute; no seu extrato do M&eacute;liuz. Ah, e o mais legal: voc&ecirc; pode resgatar o cashback do M&eacute;liuz direto para sua conta banc&aacute;ria.</p>"
+    }
+  }]
+    }
+    </script>
+</code></p>
+<h2>Saiba mais sobre o site #Parceiro e seus cupons</h2>
+<p>Ei, você, que está procurando os melhores cupons de desconto #Parceiro, veio ao lugar certo! Além de todas as promoções imperdíveis da loja, você não pode deixar de se cadastrar no Méliuz para economizar ainda mais. Com o Méliuz você também ganha cashback em todas as suas compras em lojas como #Parceiro caso estejam com a função ativa.</p>
+<p>Imagina, os produtos que você procura, com a segurança de comprar nas suas lojas preferidas e ainda ganhar dinheiro de volta em todas as suas compras! Por isso, fica a dica: cadastre-se agora no Méliuz, e receba as últimas novidades sobre o site #Parceiro e mais de 1600 lojas online do Brasil, além das melhores ofertas, promoções exclusivas, frete grátis, cupons de desconto e cashback imperdível para você fazer as suas melhores compras.</p>
+<p>Ah, e outra dica importante: para saber mais sobre a reputação do site #Parceiro, busque pelo nome da loja no site do Reclame Aqui. Ainda que seja um site muito procurado quando se tem algum problema com as lojas, é uma ótima referência para conhecer o quanto cada empresa se preocupa em resolver contratempos com seus clientes.</p>
