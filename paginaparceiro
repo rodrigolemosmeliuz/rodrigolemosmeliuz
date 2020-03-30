@@ -10,7 +10,7 @@ img.src = 'https://i.ytimg.com/vi_webp/5NwY5Pdd6Sw/maxresdefault.webp';
 <div style="background: #fff; border: .125rem solid #e8e6f0; border-radius: .25rem; margin-bottom: 30px;">
 <div style="padding: 30px; padding-bottom: 15px;">
 <h3><span style="color: #ff3859;">✂</span> Como usar o Cupom de Desconto #Parceiro?</h3>
-<p>O M&eacute;liuz oferece v&aacute;rias ofertas, cashback e cupons de desconto #Parceiro e de outras 1.600 lojas para voc&ecirc; sempre economizar em suas compras.<br />Siga o passo a passo para usar um cupom #Parceiro:<br />1. Localize o cupom desejado e clique em &ldquo;Pegar desconto&rdquo;.<br />2. Clique em Copiar e ir para loja.<br />3. No carrinho de compras da loja, cole o c&oacute;digo promocional do cupom #Parceiro no campo indicado.</p>
+<p>O M&eacute;liuz oferece v&aacute;rias ofertas, cashback e cupons de desconto #Parceiro e de outras 1.600 lojas para voc&ecirc; sempre economizar em suas compras.<br />Siga o passo a passo para usar um cupom #Parceiro:<br />1. Localize o cupom desejado e clique em Pegar desconto.<br />2. Clique em Copiar e ir para loja.<br />3. No carrinho de compras da loja, cole o c&oacute;digo promocional do cupom #Parceiro no campo indicado.</p>
 </div>
 </div>
 <div style="background: #fff; border: .125rem solid #e8e6f0; border-radius: .25rem; margin-bottom: 30px;">
@@ -41,7 +41,7 @@ img.src = 'https://i.ytimg.com/vi_webp/5NwY5Pdd6Sw/maxresdefault.webp';
     "name": "✂ Como usar o Cupom de Desconto #Parceiro?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<p>O M&eacute;liuz oferece v&aacute;rias ofertas, cashback e cupons de desconto #Parceiro e de outras 1.600 lojas para voc&ecirc; sempre economizar em suas compras.<br />Siga o passo a passo para usar um cupom #Parceiro:<br />1. Localize o cupom desejado e clique em &ldquo;Pegar desconto&rdquo;.<br />2. Clique em Copiar e ir para loja.<br />3. No carrinho de compras da loja, cole o c&oacute;digo promocional do cupom #Parceiro no campo indicado.</p>"
+      "text": "<p>O M&eacute;liuz oferece v&aacute;rias ofertas, cashback e cupons de desconto #Parceiro e de outras 1.600 lojas para voc&ecirc; sempre economizar em suas compras.<br />Siga o passo a passo para usar um cupom #Parceiro:<br />1. Localize o cupom desejado e clique em Pegar desconto.<br />2. Clique em Copiar e ir para loja.<br />3. No carrinho de compras da loja, cole o c&oacute;digo promocional do cupom #Parceiro no campo indicado.</p>"
     }
   }, {
     "@type": "Question",
