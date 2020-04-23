@@ -1,0 +1,38 @@
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "O que é o Méliuz Renda Extra?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O Méliuz Renda extra é um serviço do Méliuz que te ajuda a ganhar dinheiro sem sair de casa e sem precisar fazer nenhum investimento. Para isso, você só precisa divulgar o seu link das lojas para os seus amigos e garantir que eles façam suas compras por esse link. A cada venda realizada, você ganha uma comissão e toda a parte de entrega, pagamento e pós-venda da compra ficam por conta da loja que você divulgou."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Como posso divulgar os links do Méliuz Renda Extra?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Você pode divulgar o link das lojas nas suas redes sociais, por e-mail e por aplicativos de mensagem. Uma dica que pode ajudar a aumentar as vendas pelo seu link é indicar produtos que você usa e gosta, mostrando seus benefícios e incentivando seus amigos a comprá-los na loja que você está divulgando. É proibido utilizar qualquer mecanismo de busca para anunciar o link de indicação. Não respeitar essa regra dá ao Méliuz o direito de cancelar todas as comissões do link anunciado e, se necessário, suspender ou cancelar, temporária ou definitivamente sua conta no Méliuz Renda Extra."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Quanto custa participar do Méliuz Renda Extra?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O Méliuz Renda Extra é totalmente gratuito. Você não precisa fazer nenhum investimento para divulgar as lojas para seus amigos. Basta se cadastrar e começar a vender."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Posso divulgar mais de uma loja?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sim. Você pode divulgar todas as lojas que estão disponíveis no Méliuz Renda Extra."
+    }
+  }]
+    }
+    </script>
